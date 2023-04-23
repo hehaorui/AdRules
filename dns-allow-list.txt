@@ -1,3 +1,5 @@
 video.upqzfile.com
 other.upqzfile.com
 mobilelog.upqzfile.com
+ac.dun.163yun.com
+cm.bilibili.com
