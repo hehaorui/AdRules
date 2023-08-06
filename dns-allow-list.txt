@@ -4,3 +4,4 @@ mobilelog.upqzfile.com
 ac.dun.163yun.com
 cm.bilibili.com
 videocloud.cn-hangzhou.log.aliyuncs.com
+data.bilibili.com
